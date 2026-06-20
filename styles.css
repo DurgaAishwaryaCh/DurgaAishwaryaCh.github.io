@@ -504,8 +504,8 @@ a:hover { color: #a7f3d0; }
 }
 
 .avatar {
-  width: 148px;
-  height: 148px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
   overflow: hidden; 
   display: grid;
