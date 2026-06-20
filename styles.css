@@ -1331,7 +1331,7 @@ a:hover { color: #a7f3d0; }
 .avatar {
   width: 148px !important;
   height: 148px !important;
-  border-radius: 60%;
+  border-radius: 70%;
   overflow: hidden !important;
 }
 
@@ -1339,6 +1339,6 @@ a:hover { color: #a7f3d0; }
   width: 148px !important;
   height: 148px !important;
   object-fit: cover !important;
-  border-radius: 60% !important;
+  border-radius: 70% !important;
   display: block !important;
 }
