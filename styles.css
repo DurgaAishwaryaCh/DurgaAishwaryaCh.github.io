@@ -1328,3 +1328,17 @@ a:hover { color: #a7f3d0; }
   #bg-canvas, .cursor-glow, .scroll-progress, .site-header, .hero-bg, .hero-visual, .contact-section, .site-footer, .skip-link { display: none; }
   body { background: white; color: black; }
 }
+.avatar {
+  width: 148px !important;
+  height: 148px !important;
+  border-radius: 50%;
+  overflow: hidden !important;
+}
+
+.avatar img {
+  width: 148px !important;
+  height: 148px !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
+  display: block !important;
+}
