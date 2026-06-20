@@ -520,9 +520,9 @@ a:hover { color: #a7f3d0; }
   height: 100%;
   object-fit: cover;
   object-position: center top;
-  border-radius: 50%;
-  display: block;
+  transform: scale(0.85);
 }
+
 
 .avatar span {
   font-family: var(--font-display);
