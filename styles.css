@@ -521,7 +521,6 @@ a:hover { color: #a7f3d0; }
   object-fit: cover;
   object-position: center top;
   border-radius: 50%;
-  transform: scale(1.36);
   display: block;
 }
 
