@@ -384,11 +384,11 @@ a:hover { color: #a7f3d0; }
 }
 
 .hero-name {
-  font-family: var(--font-display);
+  font-family: "Space Grotesk", sans-serif;
   font-size: clamp(2.5rem, 5.5vw, 4rem);
   font-weight: 800;
-  line-height: 1.05;
-  letter-spacing: -0.04em;
+  line-height: 1;
+  letter-spacing: -0.06em;
   color: var(--text);
   text-shadow: 0 0 80px rgba(110, 231, 183, 0.15);
 }
